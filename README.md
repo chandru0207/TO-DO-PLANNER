@@ -1,4 +1,4 @@
-       
+            
 ## 1. Introduction.    
 ### 1.1 Purpose
 The purpose of this document is to specify the requirements and functionality of the Task Planner application.
